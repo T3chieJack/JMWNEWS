@@ -4,6 +4,9 @@
     font-weight: normal;
     font-style: normal;
 }
+.outlined-img {
+  border: 4px solid #000;
+}
 
 body {
     font-family: "OldNewspaperTypes", serif;
