@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "OldNewspaperTypes";
+    src: url("/fonts/OldNewspaperTypes.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: "OldNewspaperTypes", serif;
+    background-image: url('media/Background2025.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
